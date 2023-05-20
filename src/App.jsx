@@ -19,22 +19,26 @@ const App = () => {
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center relative z-0">
           <Navbar />
           <Hero />
-          <StarsCanvas />
         </div>
         <div className="relative z-0">
           <About />
+          <StarsCanvas />
         </div>
         <div className="relative z-0">
           <Experience />
+          <StarsCanvas />
         </div>
         <div className="relative z-0">
           <Tech />
+          <StarsCanvas />
         </div>
         <div className="relative z-0">
           <Works />
+          <StarsCanvas />
         </div>
         <div className="relative z-0">
           <Feedbacks />
+          <StarsCanvas />
         </div>
         <div className="relative z-0">
           <Contact />
