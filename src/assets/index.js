@@ -22,29 +22,20 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import fotosearch from "./fotosearch.png";
 import neutrix from "./neutrix.png";
-import tyva from "./tyva.png";
 import mcmakler from "./mcmakler.png";
 import nextgen from "./nextgen.png";
 import alisimbi from "./alisimbi.png";
 import view from "./view.png";
 import shoppy_clone from "./shoppy-clone.png";
 import logo1 from "./logo1.png";
-import logo2 from "./logo2.png";
-import logo3 from "./logo3.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
 export {
   logo1,
-  logo2,
-  logo3,
   logo,
   backend,
   creator,
@@ -70,10 +61,6 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
-  tyva,
   fotosearch,
   neutrix,
   mcmakler,
