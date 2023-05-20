@@ -15,10 +15,6 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   threejs,
   mcmakler,
   fotosearch,
@@ -26,6 +22,7 @@ import {
   alisimbi,
   nextgen,
   shoppy_clone,
+  company_logo,
 } from "../assets";
 
 export const navLinks = [
@@ -121,7 +118,7 @@ const experiences = [
   {
     title: "Frontend Engineer",
     company_name: "Garmatsch Software",
-    icon: starbucks,
+    icon: company_logo,
     iconBg: "#383E56",
     date: "December 2020 - October 2022",
     points: [
@@ -135,7 +132,7 @@ const experiences = [
   {
     title: "Frontend Engineer",
     company_name: "McMakler GmbH",
-    icon: tesla,
+    icon: company_logo,
     iconBg: "#E6DEDD",
     date: "June 2021- December 2021",
     points: [
@@ -148,7 +145,7 @@ const experiences = [
   {
     title: "Backend Engineer",
     company_name: "S.C. CODER CONSULTING INTERNATIONAL S.R.L",
-    icon: shopify,
+    icon: company_logo,
     iconBg: "#383E56",
     date: "Jan 2021 - July 2021",
     points: [
@@ -161,7 +158,7 @@ const experiences = [
   {
     title: "Fullstack developer & Software Intern Trainer",
     company_name: "Kodegenic Technologies",
-    icon: meta,
+    icon: company_logo,
     iconBg: "#E6DEDD",
     date: "November 2018 - December 2020",
     points: [

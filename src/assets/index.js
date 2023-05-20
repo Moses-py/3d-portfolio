@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -28,15 +27,10 @@ import alisimbi from "./alisimbi.png";
 import view from "./view.png";
 import shoppy_clone from "./shoppy-clone.png";
 import logo1 from "./logo1.png";
-
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import company_logo from "./company/company_logo.png";
 
 export {
   logo1,
-  logo,
   backend,
   creator,
   mobile,
@@ -57,10 +51,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   fotosearch,
   neutrix,
   mcmakler,
@@ -68,4 +58,5 @@ export {
   alisimbi,
   view,
   shoppy_clone,
+  company_logo,
 };

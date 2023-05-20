@@ -8,7 +8,9 @@ export const textVariant = (delay) => {
       y: 0,
       opacity: 1,
       transition: {
-        delay: 1,
+        type: "tween",
+        duration: 0.75,
+        delay: delay,
       },
     },
   };
@@ -73,11 +75,12 @@ export const slideIn = (direction, type, delay, duration) => {
   };
 };
 
-export const staggerContainer = (delayChildren) => {
+export const staggerContainer = (staggerChildren, delayChildren) => {
   return {
     hidden: {},
     show: {
       transition: {
+        staggerChildren: staggerChildren,
         delayChildren: delayChildren || 0,
       },
     },
