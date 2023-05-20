@@ -11,8 +11,10 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
+import useWindowSize from "./useWindowSize";
 
 const App = () => {
+  const { width } = useWindowSize();
   return (
     <BrowserRouter>
       <div className="relative z-0 bg-primary">
@@ -22,23 +24,23 @@ const App = () => {
         </div>
         <div className="relative z-0">
           <About />
-          <StarsCanvas />
+          {width > 600 && <StarsCanvas />}
         </div>
         <div className="relative z-0">
           <Experience />
-          <StarsCanvas />
+          {width > 600 && <StarsCanvas />}
         </div>
         <div className="relative z-0">
           <Tech />
-          <StarsCanvas />
+          {width > 600 && <StarsCanvas />}
         </div>
         <div className="relative z-0">
           <Works />
-          <StarsCanvas />
+          {width > 600 && <StarsCanvas />}
         </div>
         <div className="relative z-0">
           <Feedbacks />
-          <StarsCanvas />
+          {width > 600 && <StarsCanvas />}
         </div>
         <div className="relative z-0">
           <Contact />
