@@ -2,7 +2,6 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { textVariant } from "../utils/motion";
-import { EarthCanvas } from "./canvas";
 
 const Hero = () => {
   return (

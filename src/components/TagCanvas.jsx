@@ -38,7 +38,7 @@ const Skills = () => {
       zoom: 1.1,
       wheelZoom: false,
       noSelect: true,
-      textFont: null,
+      textFont: "Arial",
       freezeDecel: true,
       fadeIn: 3000,
       initial: [0.3, -0.1],

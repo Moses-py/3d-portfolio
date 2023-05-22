@@ -139,7 +139,7 @@ const experiences = [
       "Collaborating with frontend team to develop a map-data visualization program for Realestate data search with server side rendering.",
       "Implementing MapBox GL with customizations and data visualization in grids and lists",
       "Implementing user data forms and form validation using React-hook-forms",
-      " Assisted in conducting code reviews and peer-to-peer programming",
+      "Assisted in conducting code reviews and peer-to-peer programming",
     ],
   },
   {
@@ -163,7 +163,7 @@ const experiences = [
     date: "November 2018 - December 2020",
     points: [
       "Communicated effectively with team leads to understand the training and development needs of Interns",
-      " Collaborated with Interns and Junior developers to develop a Savings and Deposit platform API using NodeJS, Express and MongoDB",
+      "Collaborated with Interns and Junior developers to develop a Savings and Deposit platform API using NodeJS, Express and MongoDB",
     ],
   },
 ];
@@ -199,14 +199,14 @@ const projects = [
   {
     name: "Mcmakler",
     description:
-      "A Real estate data-search platform that allows users to search, view, and purchase rental, commercial and private properties and also offers curated recommendations for most in-demand properties across Europe.",
+      "A Real estate data-search platform that allows users to search, view, and purchase rental, commercial and private properties that are in-demand properties across Europe.",
     tags: [
       {
-        name: "react/typescript",
+        name: "ReactJS/Typescript",
         color: "blue-text-gradient",
       },
       {
-        name: "gRPC",
+        name: "Node/gRPC",
         color: "green-text-gradient",
       },
       {
@@ -221,14 +221,14 @@ const projects = [
   {
     name: "Neutrix",
     description:
-      "A comprehensive tech education platform that provides users with self-paced tutorials on AI automation, Python, Machine learning, Data analysis and Mathematics.",
+      "A fullstack project of a tech education platform that provides users with self-paced tutorials on AI automation, Python, Machine learning, Data analysis and Mathematics.",
     tags: [
       {
-        name: "nextjs",
+        name: "NextJS/TS",
         color: "blue-text-gradient",
       },
       {
-        name: "mongobd",
+        name: "MongoDB",
         color: "green-text-gradient",
       },
       {
@@ -236,7 +236,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
@@ -247,18 +247,18 @@ const projects = [
   {
     name: "Shoppy clone",
     description:
-      "A fully responsive, detailed component-built dashboard template with multiple features and pages",
+      "A fully responsive, detailed, component-built dashboard template complete with sevral features e.g Kanban Board, Charts, Dark mode, Editors and lots more.",
     tags: [
       {
-        name: "React",
+        name: "ReactJS",
         color: "blue-text-gradient",
       },
       {
-        name: "react-charts",
+        name: "React-charts",
         color: "green-text-gradient",
       },
       {
-        name: "syncfusion",
+        name: "Syncfusion",
         color: "pink-text-gradient",
       },
     ],
@@ -269,14 +269,14 @@ const projects = [
   {
     name: "FotoSearch",
     description:
-      "A Web-based platform that allows users to search for stunning quality images completely free of charge.",
+      "A Web-based platform that allows users to search for stunning quality images using the Unsplash Image API.",
     tags: [
       {
-        name: "react",
+        name: "ReactJS",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "RestApi",
         color: "green-text-gradient",
       },
       {
@@ -292,10 +292,10 @@ const projects = [
   {
     name: "NextGen",
     description:
-      "A simple frontend website mirroring a template for an NFT gallery app.",
+      "A simple frontend-based website landing page mirroring a template for an NFT gallery showcase app.",
     tags: [
       {
-        name: "React",
+        name: "ReactJS",
         color: "blue-text-gradient",
       },
       {
@@ -303,7 +303,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "SCSS",
         color: "pink-text-gradient",
       },
     ],
@@ -313,10 +313,11 @@ const projects = [
   },
   {
     name: "Alisimbi",
-    description: "A simple frontend website template.",
+    description:
+      "A simple frontend website template built using simple HTML, CSS, Javascript and Bootstrap",
     tags: [
       {
-        name: "CSS",
+        name: "Vanilla JS",
         color: "blue-text-gradient",
       },
       {
@@ -324,7 +325,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "HTML",
+        name: "HTML?CSS",
         color: "pink-text-gradient",
       },
     ],

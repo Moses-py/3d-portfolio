@@ -1,4 +1,4 @@
-export const textVariant = (delay) => {
+export const textVariant = () => {
   return {
     hidden: {
       y: -50,
@@ -9,7 +9,7 @@ export const textVariant = (delay) => {
       opacity: 1,
       transition: {
         type: "tween",
-        duration: 0.75,
+        duration: 0.5,
       },
     },
   };
@@ -30,7 +30,7 @@ export const fadeIn = (direction, type, delay, duration) => {
         type: type,
         delay: delay,
         duration: duration,
-        ease: "easeOut",
+        ease: "easeInOut",
       },
     },
   };
@@ -48,7 +48,7 @@ export const zoomIn = (duration) => {
       transition: {
         type: "tween",
         duration: duration,
-        ease: "easeOut",
+        ease: "easeInOut",
       },
     },
   };
@@ -66,7 +66,7 @@ export const slideIn = (direction, type, duration) => {
       transition: {
         type: type,
         duration: duration,
-        ease: "easeOut",
+        ease: "easeInOut",
       },
     },
   };
