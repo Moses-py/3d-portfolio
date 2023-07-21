@@ -125,7 +125,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "November 2022 - Present",
     points: [
-      "Collaborate closely with clients to comprehend their business requirements,translating them into functional and visually appealing website designs.",
+      "Collaborate closely with clients to comprehend their business requirements, translating them into functional and visually appealing website designs.",
       "Successfully manage multiple projects simultaneously, ensuring on-timedelivery and exceeding client expectations.",
       "Maintain continuous communication and collaboration with clients, providingupdates, gathering feedback, and incorporating necessary revisions to meet their needs.",
     ],
@@ -138,9 +138,9 @@ const experiences = [
     date: "December 2020 - October 2022",
     points: [
       "Played a key role in optimizing the performance of the frontend architecture using TypeScript, React JS, Storybook, CSS-in-JS, and GraphQL, resulting in 25% faster load times and improved user experience.",
-      "Contributed significantly to developing an internal reusable component library,significantly enhancing code reusability and maintaining consistency across the project",
+      "Contributed significantly to developing an internal reusable component library, significantly enhancing code reusability and maintaining consistency across the project",
       "Participated in code reviews, providing valuable feedback and suggestions forcode quality and best practices.",
-      "Actively contributed to improving team collaboration and productivity througheffective communication and knowledge sharing during pair-programmingsessions",
+      "Actively contributed to improving team collaboration and productivity througheffective communication and knowledge sharing during pair-programming sessions",
     ],
   },
   {
@@ -153,7 +153,7 @@ const experiences = [
       "Efficiently collaborated with Frontend teams to develop a map-data visualization program for real estate data search with server-side rendering. Demonstrated adaptability and delivered results within a short contract period.",
       "Implemented MapBox GL JS with customizations to visualize data in grids andlists, resulting in a robust and visually appealing map-data visualization feature. This enhancement significantly improved user engagement by 30%",
       "Collaborated seamlessly with back-end teams to ensure smooth integration ofboth frontend and backend functionalities.",
-      "Performed rigorous testing and debugging to ensure a smooth userexperience on diverse devices and browsers.",
+      "Performed rigorous testing and debugging to ensure a smooth user experience on diverse devices and browsers.",
     ],
   },
   {
