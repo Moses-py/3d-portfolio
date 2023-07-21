@@ -28,6 +28,11 @@ import view from "./view.png";
 import shoppy_clone from "./shoppy-clone.webp";
 import logo1 from "./logo1.png";
 import company_logo from "./company/company_logo.png";
+import italk_shot from "./italk_shot.webp";
+import avion_shot from "./avion_shot.jpg";
+import ryva_shot from "./ryva_shot.webp";
+import flair_shot from "./flair_shot.jpg";
+import blog_shot from "./blog_shot.jpg";
 
 export {
   logo1,
@@ -59,4 +64,9 @@ export {
   view,
   shoppy_clone,
   company_logo,
+  italk_shot,
+  ryva_shot,
+  avion_shot,
+  flair_shot,
+  blog_shot,
 };

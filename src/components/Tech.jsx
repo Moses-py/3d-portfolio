@@ -1,6 +1,4 @@
-import { BallCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
-import { technologies } from "../constants";
 import Skills from "./TagCanvas";
 
 const Tech = () => {

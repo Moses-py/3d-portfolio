@@ -49,12 +49,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I&apos;m a skilled Frontend software engineer with experience in
-        TypeScript and JavaScript, and expertise in frameworks like React,
-        Node.js, Next JS, GraphQL among others. I&apos;m a quick learner and I
-        collaborate effectively with clients and teams to create efficient,
-        scalable, and user-friendly solutions that solve real-world problems.
-        Let&apos;s work together to bring your ideas to life!
+        I&apos;m a frontend web developer with expertise in React.js, Next.js,
+        and JavaScript/TypeScript. Proficient in HTML/CSS, CSS-in-JS, and
+        Tailwind CSS, I create visually appealing and responsive user
+        interfaces. I also have experience working with Node.js, Express.js, and
+        GraphQL for building scalable web applications. I am passionate about
+        delivering high-quality solutions so I constantly strive to stay
+        up-to-date with the latest web development trends and technologies.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
