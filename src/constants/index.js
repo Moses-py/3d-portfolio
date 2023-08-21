@@ -401,7 +401,7 @@ const projects = [
       },
     ],
     image: ryva_shot,
-    source_code_link: "https://github.com/moses-py/ryva",
+    source_code_link: "https://github.com/moses-py/ryva-app",
     site_link: "https://ryva.com.ng/",
   },
 ];
