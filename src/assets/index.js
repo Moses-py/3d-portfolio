@@ -33,7 +33,7 @@ import avion_shot from "./avion_shot.jpg";
 import ryva_shot from "./ryva_shot.webp";
 import flair_shot from "./flair_shot.jpg";
 import blog_shot from "./blog_shot.jpg";
-
+import euphoria_shot from "./euphoria_shot.jpg";
 export {
   logo1,
   backend,
@@ -69,4 +69,5 @@ export {
   avion_shot,
   flair_shot,
   blog_shot,
+  euphoria_shot,
 };

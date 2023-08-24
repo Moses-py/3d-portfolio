@@ -26,6 +26,7 @@ import {
   avion_shot,
   flair_shot,
   blog_shot,
+  euphoria_shot,
 } from "../assets";
 
 export const navLinks = [
@@ -217,6 +218,24 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Euphoria",
+    description:
+      "A frontend mimic of an e-commerce application based solely on complete state management. It features a functional mimic of a user dashboard as well as total app operations.",
+    tags: [
+      {
+        name: "NextJS/Typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwindCSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: euphoria_shot,
+    source_code_link: "https://github.com/moses-py/euphoria",
+    site_link: "https://euphoria-ivory.vercel.app/",
+  },
   {
     name: "Flai-r Blog",
     description:

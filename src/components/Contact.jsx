@@ -30,7 +30,7 @@ const Contact = () => {
           <p>
             Reach out via cell @{" "}
             <a className="underline" href="tel:+2349069885063">
-              +2349069885063
+              +234912706295
             </a>
           </p>
         </div>
